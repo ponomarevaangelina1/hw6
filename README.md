@@ -11,4 +11,4 @@
 ### 1
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/SZpzXP8Qvpo.jpg)
 ### 2
-![alt-текст](
+![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0554.jpg)
