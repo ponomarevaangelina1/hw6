@@ -12,3 +12,6 @@
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/SZpzXP8Qvpo.jpg)
 ### 2
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0554.jpg)
+Выбрав два синонимичных глагола "look" и "watch", через Sketch diff выясним, с какими дополнениями (objects) они могут употребляться. "Look" чаще употребляется с "enough", "watch" c "movie", а оба эти слова могут использоваться с "way".
+### 3
+![alt-текст](
