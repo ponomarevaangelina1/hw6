@@ -3,9 +3,9 @@
 ### 1
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0550.jpg)
 ### 2
-![alt-текст]()
+![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/sb8MVEqFxN8.jpg)
 ### 3
-![alt-текст](https://pp.userapi.com/c846016/v846016469/1eda6/py0oda-IpjU.jpg "Необязательный титул")
+![alt-текст]()
 Исследовав частоту использования слов "movie" и "film" в британском и американском английском с помощью Google Ngrams, приходим к выводу, что оба слова в большей степени характерны для британского английского в настоящее время. В периоды 1910-1928, 1953-1965, 1970-1990 слово "movie" больше характерно для американского английского.
 ## Часть 2
 ![alt-текст](https://pp.userapi.com/c834301/v834301469/10a201/SZpzXP8Qvpo.jpg "Необязательный титул")
