@@ -17,4 +17,4 @@
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0555.jpg)
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0556.jpg)
 ![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0557.jpg)
-В Trends (корпус BNC) выберите слово "inventive". Сравните, как менялась частотность этого слова в Google Ngrams. Резкий рост частотности слова наблюдается в период 1880-1890 гг.  Данные о росте частоты употреблений этого слова в BNC и Google Ngrams совпадают с 1983 г.
+В Trends (корпус BNC) выберем слово "inventive". Сравним, как менялась частотность этого слова в Google Ngrams. Резкий рост частотности слова наблюдается в период 1880-1890 гг.  Данные о росте частоты употреблений этого слова в BNC и Google Ngrams совпадают с 1983 г.
