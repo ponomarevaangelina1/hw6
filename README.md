@@ -1,7 +1,7 @@
 # hw6
 ## Часть 1
 ### 1
-![alt-текст](https://pp.userapi.com/c846122/v846122613/1e0c9/o6acLkBdOUc.jpg "Необязательный титул")
+![alt-текст](https://github.com/ponomarevaangelina1/hw6/blob/master/IMG_0550.jpg)
 ### 2
 ![alt-текст](https://pp.userapi.com/c830709/v830709469/c1363/ZTTuB0ejH5c.jpg "Необязательный титул")
 ### 3
